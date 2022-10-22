@@ -1,0 +1,2 @@
+# blogPhoto
+Django web application 
